@@ -28,7 +28,6 @@ void setup() {
   pinMode(ir5, INPUT);
   pinMode(near, INPUT);
 }
-
 void loop()
  {
   //Reading Sensor Values
@@ -183,6 +182,5 @@ void loop()
      digitalWrite(m3, LOW);
      digitalWrite(m4, HIGH);
    }
-  }
-  
+  }  
 }
