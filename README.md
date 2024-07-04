@@ -19,3 +19,8 @@ LFR has been able to shift the path from Black to White or vice versa.
 **VIDEO DEMONSTRATION** 
 
 
+https://github.com/tejascw/Line-Follower-Robot-having-path-shifting-feature/assets/116948766/d6234ec3-d7e0-4855-97a1-459c8aa77534
+
+
+
+
