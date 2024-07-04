@@ -1,6 +1,6 @@
-# Line-Follower-Robot-having-path-shifting-feature.
+# DYNAMIC PATH TRACER-LINE FOLLOWER ROBOT
 **INTRODUCTION:**
-We have built a line follower robot which is able to follow both Black and White Lines. Also, the LFR is able to take Right and Left Turn on both the Black and White lines. 
+I have built a line follower robot which is able to follow both Black and White Lines. Also, the LFR is able to take Right and Left Turn on both the Black and White lines. 
 LFR has been able to shift the path from Black to White or vice versa. 
 
 **REQUIRED HARDWARE :**
@@ -15,4 +15,7 @@ LFR has been able to shift the path from Black to White or vice versa.
 **CHASSIS:** Design the chassis in Creo-parametric with the help of component dimensions. Cut the chassis with the help of a CNC laser cutter. The material used for building the chassis is a Transparent Acrylic Sheet.
 
 **KEY SKILL:** Arduino Programming, Cero Parametric Modeling
+
+**VIDEO DEMONSTRATION** 
+
 
