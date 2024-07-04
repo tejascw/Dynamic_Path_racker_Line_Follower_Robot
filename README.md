@@ -3,7 +3,8 @@
 I have built a line follower robot which is able to follow both Black and White Lines. Also, the LFR is able to take Right and Left Turn on both the Black and White lines. 
 LFR has been able to shift the path from Black to White or vice versa. 
 
-![LINE FOLLOWER ROBOT](https://github.com/tejascw/Line-Follower-Robot-having-path-shifting-feature/assets/116948766/5d0f4fc3-bc33-491d-a021-bd0fee019998)
+![LINE FOLLOWER ROBOT ASSEMBLY](https://github.com/tejascw/Line-Follower-Robot-having-path-shifting-feature/assets/116948766/7a303b30-6deb-4dd0-a55a-03314b18a252)
+
 
 
 **REQUIRED HARDWARE :**
