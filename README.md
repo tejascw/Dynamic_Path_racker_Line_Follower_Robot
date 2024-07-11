@@ -1,7 +1,7 @@
 # DYNAMIC PATH TRACER-LINE FOLLOWER ROBOT
 # INTRODUCTION
-I have built a line follower robot which is able to follow both Black and White Lines. Also, the LFR is able to take Right and Left Turn on both the Black and White lines. 
-LFR has been able to shift the path from Black to White or vice versa. 
+I have built a line follower robot which is capable of following both Black and White Lines. Also, the LFR is able to take Right and Left Turn on both the Black and White lines. 
+LFR has **Path-shifting Feature ** in which the LFR will able to shift the path from Black to White or vice versa. 
 
 # ASSEMBLY OF LINE FOLLOWER ROBOT
 
