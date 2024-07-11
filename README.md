@@ -4,8 +4,7 @@ I have built a line follower robot which is capable of following both Black and 
 LFR has **Path-shifting Feature ** in which the LFR will able to shift the path from Black to White or vice versa. 
 
 # ASSEMBLY OF LINE FOLLOWER ROBOT
-
-<img align="right" alt="https://github.com/tejascw/Line-Follower-Robot-having-path-shifting-feature/assets/116948766/7a303b30-6deb-4dd0-a55a-03314b18a252">
+ ![LINE FOLLOWER ROBOT ASSEMBLY](https://github.com/tejascw/Line-Follower-Robot-having-path-shifting-feature/assets/116948766/7a303b30-6deb-4dd0-a55a-03314b18a252)
 
 
 # REQUIRED HARDWARE 
