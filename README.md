@@ -21,11 +21,11 @@ Design the chassis in Creo-parametric with the help of component dimensions. Cut
 # KEY SKILL
 1. Arduino Programming
 2. Cero Parametric Modeling
+# Programming
+[Code](https://github.com/tejascw/Dynamic_Path_racker_Line_Follower_Robot/blob/main/LINE_FOLLOWER_ROBOT.ino)
 
 # VIDEO DEMONSTRATION
-
-https://github.com/tejascw/Line-Follower-Robot-having-path-shifting-feature/assets/116948766/d6234ec3-d7e0-4855-97a1-459c8aa77534
-
+https://github.com/tejascw/Line-Follower-Robot-having-path-shifting-feature/assets/116948766/d6234ec3-d7e0-4855-97a1-459c8aa77534 
 
 
 
